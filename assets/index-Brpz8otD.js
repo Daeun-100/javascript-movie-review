@@ -340,7 +340,7 @@ movieData_fn = async function() {
     method: "GET",
     headers: {
       accept: "application/json",
-      Authorization: `Bearer ${void 0}`
+      Authorization: `Bearer ${"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYTYzYTkyNzMzZTEwODVjOGE2ZmRjODRiZGI1ZmJjNCIsIm5iZiI6MTc0MjI3NTg3Ny45NDQsInN1YiI6IjY3ZDkwNTI1YWIyNTllMDNhN2M2YTJlZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Hc9ub007PNxPdNSwS1doghQTFrfO8DItpLNnlaGQ2L0"}`
     }
   };
   try {
@@ -431,7 +431,7 @@ movieData_fn2 = async function() {
     method: "GET",
     headers: {
       accept: "application/json",
-      Authorization: `Bearer ${void 0}`
+      Authorization: `Bearer ${"eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwYTYzYTkyNzMzZTEwODVjOGE2ZmRjODRiZGI1ZmJjNCIsIm5iZiI6MTc0MjI3NTg3Ny45NDQsInN1YiI6IjY3ZDkwNTI1YWIyNTllMDNhN2M2YTJlZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Hc9ub007PNxPdNSwS1doghQTFrfO8DItpLNnlaGQ2L0"}`
     }
   };
   try {
